@@ -8,7 +8,5 @@
 	"categories": [
 		"game"
 	],
-	"image": "NULL",
-	"icon": "NULL",
 	"long_description": "# SnakeDS\n\nThe classic Snake game for the Nintendo DS!\nPorted from SnakeWii\n\n# How to play\nUse the D-Pad to move the Snake while avoiding to bite yourself or touching the walls!\n",
 }
